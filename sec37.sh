@@ -1,0 +1,17 @@
+#!/bin/bash
+
+say -v Kyoko "	ある調査によると，	"; say -v Karen "	According to a survey,	"
+say -v Kyoko "	5人中三人は今日無関心である，外国の問題に	"; say -v Karen "	three in five people today are indifferent to/foreign affairs.	"
+say -v Kyoko "	どうなってしまうだろう，日本とアメリカの関係は，	"; say -v Karen "	What will become of Japan-US relations	"
+say -v Kyoko "	もし安全保障条約が期限切れになったら	"; say -v Karen "	if the security treaty expires?	"
+say -v Kyoko "	もし日本が取り除かなければ，不平等な関税を，	"; say -v Karen "	Unless Japan eliminates its unfair tariffs,	"
+say -v Kyoko "	アメリカは課すだろう，制裁を	"; say -v Karen "	the U.S. will impose sanctions.	"
+say -v Kyoko "	貿易摩擦は生じるかもしれない，	"; say -v Karen "	Trade friction might arise	"
+say -v Kyoko "	両国の間で，今にも	"; say -v Karen "	between the two nations at any moment.	"
+say -v Kyoko "	我々の最優先事項は解決することだ，この論争をきっぱりと．	"; say -v Karen "	Our top priority is to settle this dispute once and for all,	"
+say -v Kyoko "	だから我々は準備できている，妥協する	"; say -v Karen "	so we are ready to meet them halfway.	"
+say -v Kyoko "	連邦予算はかろうじて承認された，議会に	"; say -v Karen "	The federal budget was narrowly approved/ by Congress.	"
+say -v Kyoko "	彼は主張している，	"; say -v Karen "	He argues that	"
+say -v Kyoko "	政府は探さなければならない，代わりの収入源を	"; say -v Karen "	the administration must look for alternative sources of revenue.	"
+say -v Kyoko "	世論調査は示している，	"; say -v Karen "	A poll shows that	"
+say -v Kyoko "	圧倒的多数が支持していることを，その法律を	"; say -v Karen "	an overwhelming majority is in favor of the legislation.	"

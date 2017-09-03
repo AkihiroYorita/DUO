@@ -1,0 +1,18 @@
+#!/bin/bash
+
+say -v Kyoko "	アンケート用紙が配布された、無作為に	"; say -v Karen "	The questionnaires were distributed at random.	"
+say -v Kyoko "	あなたは記入するだけでいい、以下の空欄部分に．	"; say -v Karen "	All you have to do is fill in the blanks below. 	"
+say -v Kyoko "	はっきり書いてください，黒か青インクで	"; say -v Karen "	Please print in black or blue ink.	"
+say -v Kyoko "	10％の割引に加えて，	"; say -v Karen "	In addition to a 10% discount,	"
+say -v Kyoko "	あなたは選べます、一つのオプションツアーを、無料で	"; say -v Karen "	you can pick out an optional excursion for free.	"
+say -v Kyoko "	往復料金,各目的地までのは、以下のとおりです	"; say -v Karen "	Round-trip fares to each destination are as follows.	"
+say -v Kyoko "	忘れないで, 確認することを, 予約を、事前に．ええ．	"; say -v Karen "	Don't forget to confirm your reservation in advance. I won't.	"
+say -v Kyoko "	必ずチェックインしてください	"; say -v Karen "	Be sure to check in	"
+say -v Kyoko "	少なくとも45分前に、出発の	"; say -v Karen "	at least 45 minutes prior to departure time.	"
+say -v Kyoko "	私は名札を取り付けた，荷物に，	"; say -v Karen "	I attached my name tag to my baggage,	"
+say -v Kyoko "	しかしそれはすぐに取れた	"; say -v Karen "	but it soon came off.	"
+say -v Kyoko "	平均して，	"; say -v Karen "	On average,	"
+say -v Kyoko "	これらの小包は重さがある，2ポンドの	"; say -v Karen "	these packages weigh two pounds.	"
+say -v Kyoko "	このビニール製のゴミ袋は無縁である，有害な化学物質とは	"; say -v Karen "	This plastic garbage bag is free of hazardous chemicals.	"
+say -v Kyoko "	この懐中電灯はぼやけてきた．	"; say -v Karen "	This flashlight is getting dim. 	"
+say -v Kyoko "	それは新しい電池を必要とする	"; say -v Karen "	It needs new batteries.	"
